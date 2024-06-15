@@ -1,7 +1,7 @@
 # YimResupplier
 A Lua script that instantly resupplies MC businesses in GTA Online.
 
-![YimResupplier](https://github.com/YimMenu-Lua/YimResupplier/assets/66764345/e8e12c67-8e98-41c4-b7eb-38d317f398db)
+![YimResupplier](https://github.com/xesdoog/YimResupplier/assets/66764345/87ba3695-ea69-4645-919c-3711024ff9c8)
 
 ## Credits
 [sch-Ida](https://github.com/sch-lda) for the online version check.
